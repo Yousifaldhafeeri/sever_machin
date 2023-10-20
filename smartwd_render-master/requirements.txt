@@ -1,0 +1,10 @@
+aiofiles
+aiohttp
+asyncio
+fastai
+numpy
+pillow
+python-multipart
+starlette
+uvicorn
+opencv-python
